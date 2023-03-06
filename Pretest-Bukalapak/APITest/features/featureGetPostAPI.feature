@@ -1,5 +1,5 @@
 @Api
-Feature: Open Cypress API Site
+Feature: Open URI
   @GetApi
   Scenario:
     Given Access URI
